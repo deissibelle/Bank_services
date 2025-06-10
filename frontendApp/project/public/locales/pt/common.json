@@ -1,0 +1,67 @@
+{
+  "auth": {
+    "login": "Entrar",
+    "signup": "Criar conta",
+    "logout": "Sair",
+    "email": "Endereço de e-mail",
+    "password": "Senha",
+    "confirmPassword": "Confirmar senha",
+    "firstName": "Nome",
+    "lastName": "Sobrenome",
+    "rememberMe": "Lembrar-me",
+    "forgotPassword": "Esqueceu sua senha?",
+    "noAccount": "Não tem uma conta?",
+    "hasAccount": "Já tem uma conta?"
+  },
+  "navigation": {
+    "dashboard": "Painel",
+    "accounts": "Contas",
+    "cards": "Cartões",
+    "loans": "Empréstimos",
+    "transactions": "Transações",
+    "support": "Suporte",
+    "settings": "Configurações"
+  },
+  "dashboard": {
+    "welcome": "Bem-vindo(a), {{name}}!",
+    "overview": "Aqui está uma visão geral das suas finanças",
+    "totalBalance": "Saldo total",
+    "income": "Receitas",
+    "expenses": "Despesas",
+    "recentTransactions": "Transações recentes"
+  },
+  "accounts": {
+    "title": "Suas contas",
+    "newAccount": "Nova conta",
+    "checking": "Conta corrente",
+    "savings": "Conta poupança",
+    "balance": "Saldo",
+    "accountNumber": "Número da conta",
+    "iban": "IBAN",
+    "transactions": "Transações"
+  },
+  "transactions": {
+    "new": "Nova transação",
+    "deposit": "Depósito",
+    "withdrawal": "Saque",
+    "transfer": "Transferência",
+    "amount": "Valor",
+    "description": "Descrição",
+    "recipient": "Destinatário",
+    "date": "Data"
+  },
+  "cards": {
+    "title": "Seus cartões",
+    "requestNew": "Solicitar novo cartão",
+    "block": "Bloquear cartão",
+    "unblock": "Desbloquear cartão",
+    "details": "Detalhes do cartão",
+    "expires": "Vence em"
+  },
+  "support": {
+    "title": "Atendimento ao cliente",
+    "startChat": "Iniciar chat",
+    "sendMessage": "Enviar mensagem",
+    "contact": "Contate-nos"
+  }
+}

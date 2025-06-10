@@ -1,0 +1,67 @@
+{
+  "auth": {
+    "login": "Sign in",
+    "signup": "Create account",
+    "logout": "Sign out",
+    "email": "Email address",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot your password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "accounts": "Accounts",
+    "cards": "Cards",
+    "loans": "Loans",
+    "transactions": "Transactions",
+    "support": "Support",
+    "settings": "Settings"
+  },
+  "dashboard": {
+    "welcome": "Welcome back, {{name}}!",
+    "overview": "Here's an overview of your finances",
+    "totalBalance": "Total Balance",
+    "income": "Income",
+    "expenses": "Expenses",
+    "recentTransactions": "Recent Transactions"
+  },
+  "accounts": {
+    "title": "Your Accounts",
+    "newAccount": "New Account",
+    "checking": "Checking Account",
+    "savings": "Savings Account",
+    "balance": "Balance",
+    "accountNumber": "Account Number",
+    "iban": "IBAN",
+    "transactions": "Transactions"
+  },
+  "transactions": {
+    "new": "New Transaction",
+    "deposit": "Deposit",
+    "withdrawal": "Withdrawal",
+    "transfer": "Transfer",
+    "amount": "Amount",
+    "description": "Description",
+    "recipient": "Recipient",
+    "date": "Date"
+  },
+  "cards": {
+    "title": "Your Cards",
+    "requestNew": "Request New Card",
+    "block": "Block Card",
+    "unblock": "Unblock Card",
+    "details": "Card Details",
+    "expires": "Expires"
+  },
+  "support": {
+    "title": "Customer Support",
+    "startChat": "Start Chat",
+    "sendMessage": "Send Message",
+    "contact": "Contact Us"
+  }
+}

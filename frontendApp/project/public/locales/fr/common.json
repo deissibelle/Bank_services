@@ -1,0 +1,67 @@
+{
+  "auth": {
+    "login": "Se connecter",
+    "signup": "Créer un compte",
+    "logout": "Se déconnecter",
+    "email": "Adresse e-mail",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "rememberMe": "Se souvenir de moi",
+    "forgotPassword": "Mot de passe oublié ?",
+    "noAccount": "Vous n'avez pas de compte ?",
+    "hasAccount": "Vous avez déjà un compte ?"
+  },
+  "navigation": {
+    "dashboard": "Tableau de bord",
+    "accounts": "Comptes",
+    "cards": "Cartes",
+    "loans": "Prêts",
+    "transactions": "Transactions",
+    "support": "Support",
+    "settings": "Paramètres"
+  },
+  "dashboard": {
+    "welcome": "Bienvenue, {{name}} !",
+    "overview": "Voici un aperçu de vos finances",
+    "totalBalance": "Solde total",
+    "income": "Revenus",
+    "expenses": "Dépenses",
+    "recentTransactions": "Transactions récentes"
+  },
+  "accounts": {
+    "title": "Vos comptes",
+    "newAccount": "Nouveau compte",
+    "checking": "Compte courant",
+    "savings": "Compte d'épargne",
+    "balance": "Solde",
+    "accountNumber": "Numéro de compte",
+    "iban": "IBAN",
+    "transactions": "Transactions"
+  },
+  "transactions": {
+    "new": "Nouvelle transaction",
+    "deposit": "Dépôt",
+    "withdrawal": "Retrait",
+    "transfer": "Virement",
+    "amount": "Montant",
+    "description": "Description",
+    "recipient": "Bénéficiaire",
+    "date": "Date"
+  },
+  "cards": {
+    "title": "Vos cartes",
+    "requestNew": "Demander une nouvelle carte",
+    "block": "Bloquer la carte",
+    "unblock": "Débloquer la carte",
+    "details": "Détails de la carte",
+    "expires": "Expire le"
+  },
+  "support": {
+    "title": "Service client",
+    "startChat": "Démarrer le chat",
+    "sendMessage": "Envoyer un message",
+    "contact": "Nous contacter"
+  }
+}

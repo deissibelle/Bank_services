@@ -1,0 +1,67 @@
+{
+  "auth": {
+    "login": "تسجيل الدخول",
+    "signup": "إنشاء حساب",
+    "logout": "تسجيل الخروج",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "firstName": "الاسم الأول",
+    "lastName": "اسم العائلة",
+    "rememberMe": "تذكرني",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "noAccount": "ليس لديك حساب؟",
+    "hasAccount": "لديك حساب بالفعل؟"
+  },
+  "navigation": {
+    "dashboard": "لوحة التحكم",
+    "accounts": "الحسابات",
+    "cards": "البطاقات",
+    "loans": "القروض",
+    "transactions": "المعاملات",
+    "support": "الدعم",
+    "settings": "الإعدادات"
+  },
+  "dashboard": {
+    "welcome": "مرحباً، {{name}}!",
+    "overview": "نظرة عامة على أموالك",
+    "totalBalance": "الرصيد الإجمالي",
+    "income": "الدخل",
+    "expenses": "المصروفات",
+    "recentTransactions": "المعاملات الأخيرة"
+  },
+  "accounts": {
+    "title": "حساباتك",
+    "newAccount": "حساب جديد",
+    "checking": "حساب جاري",
+    "savings": "حساب توفير",
+    "balance": "الرصيد",
+    "accountNumber": "رقم الحساب",
+    "iban": "رقم الآيبان",
+    "transactions": "المعاملات"
+  },
+  "transactions": {
+    "new": "معاملة جديدة",
+    "deposit": "إيداع",
+    "withdrawal": "سحب",
+    "transfer": "تحويل",
+    "amount": "المبلغ",
+    "description": "الوصف",
+    "recipient": "المستلم",
+    "date": "التاريخ"
+  },
+  "cards": {
+    "title": "بطاقاتك",
+    "requestNew": "طلب بطاقة جديدة",
+    "block": "حظر البطاقة",
+    "unblock": "إلغاء حظر البطاقة",
+    "details": "تفاصيل البطاقة",
+    "expires": "تنتهي في"
+  },
+  "support": {
+    "title": "خدمة العملاء",
+    "startChat": "بدء المحادثة",
+    "sendMessage": "إرسال رسالة",
+    "contact": "اتصل بنا"
+  }
+}
