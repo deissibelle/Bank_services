@@ -1,0 +1,41 @@
+# Server Configuration
+PORT=3002
+NODE_ENV=development
+
+# Database
+MONGODB_URI=mongodb://localhost:27017/banking_accounts
+
+# External Services
+AUTH_SERVICE_URL=http://localhost:3001
+
+# CORS
+ALLOWED_ORIGINS=http://localhost:3000,http://localhost:3001
+
+# Rate Limiting
+RATE_LIMIT_WINDOW_MS=900000
+RATE_LIMIT_MAX_REQUESTS=200
+
+# Account Configuration
+DEFAULT_CURRENCY=USD
+MIN_ACCOUNT_BALANCE=0
+MAX_ACCOUNT_BALANCE=1000000
+DEFAULT_OVERDRAFT_LIMIT=0
+
+# Transaction Limits
+MAX_TRANSACTION_AMOUNT=100000
+DAILY_TRANSACTION_LIMIT=10000
+MONTHLY_TRANSACTION_LIMIT=50000
+
+# Branch Configuration
+DEFAULT_BRANCH_CODE=MAIN
+DEFAULT_BRANCH_NAME=Main Branch
+
+# Logging
+LOG_LEVEL=info
+
+# Security
+BCRYPT_ROUNDS=12
+
+# Interest Calculation
+INTEREST_CALCULATION_METHOD=daily
+COMPOUND_FREQUENCY=monthly
